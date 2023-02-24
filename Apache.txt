@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html lang="en">
+	<title>Apache</title>
+	<body>
+	<img embed style="width:720px; height:450px" src="http://upload.wikimedia.org/wikipedia/commons/9/9f/AgustaWestland_Apache_AH1_10_(5968018661).jpg">
+	</body>
+</html>
