@@ -1,0 +1,20 @@
+h1 {
+	text-shadow:0 0 3px #FF0000;
+}
+table {
+	font-size: 0.875em;
+	border: 1px solid silver;
+}
+td:hover {
+	background-color: yello;
+	color: black;
+}
+tr, th {
+	background-color: black;
+	color: cornsilk;
+}
+tr, td {
+	font-size: 1.875em;
+	background-color: darkgreen;
+	color: white;
+}
