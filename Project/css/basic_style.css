@@ -62,7 +62,7 @@ h1 {
 HOVER, TRANSLATE & TRANSFORM EFFECTS
 ------------------------------------------------------*/
 .container .square:nth-child(-n+4):hover{
-    background-image: url("C:/Users/ifemi/OneDrive/Documents/GitHub/HTML-and-CSS-Projects/Project/icons/icons.png");
+    background-image: url("../icons/icons.png");
 }
 .squares:nth-child(1):hover {
     background: #13b4ff;
@@ -81,7 +81,7 @@ HOVER, TRANSLATE & TRANSFORM EFFECTS
 SELECT ALL SQUARES IN THE ARRAY
 --------------------------------------------------------*/
 .container .squares:nth-child(-n+4) {
-    background-image: url("C:/Users/ifemi/OneDrive/Documents/GitHub/HTML-and-CSS-Projects/Project/icons/icons2.png");
+    background-image: url("../icons/icons2.png");
     color: #fff;
     float: left;
     width: 100px;
@@ -128,7 +128,7 @@ INDIVIDUAL SELECT A SQUARE IN THE ARRAY
 HOVER. TRANSLATE & TRANSFORM EFFECTS
 -------------------------------------------------------------*/
 .container .squares:nth-child(-n+4):hover {
-    background-image: url("C:\Users\ifemi\OneDrive\Documents\GitHub\HTML-and-CSS-Projects\Project\icons\icons.png");
+    background-image: url("../icons/icons.png");
 }
 .squares:nth-child(1):hover {
     background: #13b4ff;
@@ -149,7 +149,7 @@ HOVER. TRANSLATE & TRANSFORM EFFECTS
 HOVER, TRANSLATE & TRANSFORM EFFECTS
 ----------------------------------------------------------*/
 .container .squares:nth-child(-n+4):hover{
-    background-image: url("C:/Users/ifemi/OneDrive/Documents/GitHub/HTML-and-CSS-Projects/Project/icons/icons.png");
+    background-image: url("../icons/icons.png");
     transform: scale(.5);
     animation-name: race;
     animation-duration: 2.5s;
@@ -175,6 +175,6 @@ ANIMATION EFFECT
 @keyframes race {
     0%, 100% {
         transform: translateY(0px);
-        background-image: url("C:\Users\ifemi\OneDrive\Documents\GitHub\HTML-and-CSS-Projects\Project\icons\icons.png");
+        background-image: url("../icons/icons.png");
     }
 }
