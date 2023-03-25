@@ -1,10 +1,7 @@
-/***** GENERAL STYLING *****/
-/* Body */
 body {
     margin: 0%  /* This ensures our site displays all the way to the edge of the browser screen */
 }
 
-/* Heading 1 elements */
 h1 {
     text-transform: uppercase; /* Capitalizing all h1 headings */
     font-family: "Trebuchet MS", Optima; /* Sets the font family of all h1 headings */
