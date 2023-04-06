@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+    <script src="http://unpkg.com/react@16/umd/react.development.js" crossorigin>
+    <script src="http://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin>
+</script>
+</head>
+<body>
+    <script>
+        const X = React.creatElememnt;
+
+        class likeButton extends React.Component {
+            contructor(props) {
+                super(props);
+                this.state ={ liked: false};
+            }
+        
+            render() {
+                if (this.state.liked) {
+                    return 'You clicked the button!';
+                }
+
+            return X(
+                'button',
+                {onClick: () =
+            )}
